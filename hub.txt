@@ -2,4 +2,4 @@
 my text zat github.
 edit by hub
 test conflict
-here are some conflicts!
+here are some conflicts! --edit by hub
