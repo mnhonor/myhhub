@@ -8,3 +8,7 @@ xxxx
 我是主分支
 我是Vice Branch
 merge test
+准备合并
+what?
+why?
+how!
